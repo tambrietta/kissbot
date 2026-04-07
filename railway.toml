@@ -1,0 +1,5 @@
+[build]
+providers = ["python"]
+
+[build.python]
+systemPackages = ["libopus-dev"]
