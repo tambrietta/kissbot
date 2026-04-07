@@ -345,4 +345,3 @@ if __name__ == "__main__":
         exit(1)
     bot = build_bot()
     bot.run(token)
-<parameter name="filePath">/workspaces/kiss.bot/kissbot.py
