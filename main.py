@@ -344,5 +344,5 @@ if __name__ == "__main__":
         print("DISCORD_BOT_TOKEN environment variable is not set.")
         exit(1)
     bot = build_bot()
-    bot.run(token)</content>
+    bot.run(token)
 <parameter name="filePath">/workspaces/kiss.bot/kissbot.py
