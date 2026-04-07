@@ -2,4 +2,4 @@
 providers = ["python"]
 
 [build.python]
-systemPackages = ["libopus-dev"]
+systemPackages = ["python3.13-distutils", "libopus-dev"]
